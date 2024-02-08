@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "34b39937dc6aa089",
+    "type": "split",
+    "children": [
+      {
+        "id": "348e7c53885a2baf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4dcfae6b36cf4a7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "THM course/Intro web hacking/File inclusion/Other case changing method to post.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4f29e81a5c19784d",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7eaf1dda1d8a6f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ecf3dada3eea0728",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "de49f6e3c99cc961",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5bf45539fe447a77",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 414.5
+  },
+  "right": {
+    "id": "ccafce0c9ed77c7c",
+    "type": "split",
+    "children": [
+      {
+        "id": "acad479f27a64ab5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "258ef98cd4e9f6b1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "THM course/Intro web hacking/File inclusion/Other case changing method to post.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3dc37d9ff6a6c8b4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "THM course/Intro web hacking/File inclusion/Other case changing method to post.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "24ecce24e6708e27",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cae0fd421c763b86",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "THM course/Intro web hacking/File inclusion/Other case changing method to post.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian42-brat:BRAT": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4dcfae6b36cf4a7f",
+  "lastOpenFiles": [
+    "THM course/Intro web hacking/File inclusion/Curl error bynary error.md",
+    "THM course/Intro web hacking/File inclusion/Reverse shell.md",
+    "THM course/Intro web hacking/File inclusion/Remote File Inclusion.md",
+    "THM course/Intro web hacking/File inclusion/Path traversal.md",
+    "THM course/Intro web hacking/File inclusion/Other case changing method to post.md",
+    "THM course/Intro web hacking/File inclusion/More tricks.md",
+    "THM course/Intro web hacking/File inclusion/Hardening PHP pages.md",
+    "THM course/Intro web hacking/File inclusion/File Inclusion.md",
+    "THM course/Intro web hacking/File inclusion/%00 Trick.md",
+    "THM course/Intro web hacking/File inclusion/Untitled",
+    "delete 1.png",
+    "delete.png",
+    "THM course/Intro web hacking/File inclusion/Remote fi",
+    "THM course/Intro web hacking/Auth bypass/Cookie Tampering.md",
+    "THM course/Intro web hacking/File inclusion",
+    "dc22709e572d5de31ed4effb2ebc161f.png",
+    "dbf35cc4f35fde7a4327ad8b5a2ae2ec.png",
+    "THM course/Intro web hacking/IDOR insecure direct object reference/Practice pictures.md",
+    "idor-example-2.png",
+    "IDOR-EXAMPLE-1.png",
+    "THM course/Intro web hacking/IDOR insecure direct object reference/Encoded ID.md",
+    "THM course/Intro web hacking/IDOR insecure direct object reference/Where they are located.md",
+    "THM course/Intro web hacking/IDOR insecure direct object reference/Untitled",
+    "THM course/Intro web hacking/IDOR insecure direct object reference/IDOR example.md",
+    "THM course/Intro web hacking/IDOR insecure direct object reference/Creating 2 accounts to verify.md",
+    "THM course/Intro web hacking/IDOR insecure direct object reference/Hashed IDs.md",
+    "THM course/Intro web hacking/IDOR insecure direct object reference",
+    "THM course/Intro web hacking/Search engines.md",
+    "THM course/Intro web hacking/Manual discovery - HTTP headers.md",
+    "THM course/Intro web hacking/OSINT Tools/robots.txt.md",
+    "THM course/Intro web hacking/OSINT Tools/DNS Bruteforce.md",
+    "THM course/Intro web hacking/Auth bypass/Username enumeration.md",
+    "THM course/Intro web hacking/OSINT Tools",
+    "error-displayed.png",
+    "THM course/Intro web hacking/Auth bypass/Brute force.md",
+    "account enumeration.png",
+    "THM course/Intro web hacking/OSINT Tools/Google Hacking  Dorking.md",
+    "THM course/Intro web hacking/Auth bypass",
+    "THM course/Untitled",
+    "THM course/Intro web hacking/OSINT Tools/OSINT SSL TLS Certificates.md",
+    "THM course/Intro web hacking/OSINT Tools/Sitemap.xml.md",
+    "THM course/Intro web hacking/OSINT Tools/Wappalyzer web tech identifier.md",
+    "Pasted image 20240203225008.png",
+    "Pasted image 20240203225012.png",
+    "THM course/Intro web hacking",
+    "THM course"
+  ]
+}
