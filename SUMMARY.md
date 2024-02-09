@@ -4,6 +4,8 @@
 * [THM course](<THM course/README.md>)
   * [Intro web hacking](<THM course/Intro web hacking/README.md>)
     * [Server Side Request Forgery (SSRF)](<THM course/Intro web hacking/server-side-request-forgery-ssrf/README.md>)
+      * [Common cases of SSRF](<THM course/Intro web hacking/server-side-request-forgery-ssrf/common-cases-of-ssrf.md>)
+      * [SSRF Theory](<THM course/Intro web hacking/server-side-request-forgery-ssrf/ssrf-theory.md>)
       * [Types of SSRF](<THM course/Intro web hacking/server-side-request-forgery-ssrf/types-of-ssrf.md>)
     * [Manual discovery - HTTP headers](<THM course/Intro web hacking/Manual discovery - HTTP headers.md>)
     * [Search engines](<THM course/Intro web hacking/Search engines.md>)
