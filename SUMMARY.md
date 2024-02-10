@@ -2,6 +2,8 @@
 
 * [The Open Web Application Security OWASP](README.md)
 * [Theory & Commands](<THM course/README.md>)
+  * [Gobuster](<THM course/gobuster/README.md>)
+    * [Theory](<THM course/gobuster/theory.md>)
   * [Nmap basics](<THM course/nmap-basics.md>)
   * [Intro web hacking](<THM course/Intro web hacking/README.md>)
     * [Cross-site Scripting](<THM course/Intro web hacking/cross-site-scripting/README.md>)
