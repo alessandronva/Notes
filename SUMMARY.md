@@ -1,7 +1,8 @@
 # Table of contents
 
 * [The Open Web Application Security OWASP](README.md)
-* [THM course](<THM course/README.md>)
+* [Theory & Commands](<THM course/README.md>)
+  * [Nmap basics](<THM course/nmap-basics.md>)
   * [Intro web hacking](<THM course/Intro web hacking/README.md>)
     * [Cross-site Scripting](<THM course/Intro web hacking/cross-site-scripting/README.md>)
       * [DOM Based XSS](<THM course/Intro web hacking/cross-site-scripting/dom-based-xss.md>)
@@ -49,3 +50,7 @@
       * [Wappalyzer web tech identifier](<THM course/Intro web hacking/OSINT Tools/Wappalyzer web tech identifier.md>)
       * [Wayback machine](<THM course/Intro web hacking/OSINT Tools/Wayback machine.md>)
       * [robots.txt](<THM course/Intro web hacking/OSINT Tools/robots.txt.md>)
+
+## THM machines walkthroughs
+
+* [Vulnversity](thm-machines-walkthroughs/vulnversity.md)
