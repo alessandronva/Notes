@@ -2,6 +2,7 @@
 
 * [The Open Web Application Security OWASP](README.md)
 * [Theory & Commands](<THM course/README.md>)
+  * [Creating DNS entry for an IP](<THM course/creating-dns-entry-for-an-ip.md>)
   * [Gobuster](<THM course/gobuster/README.md>)
     * [Theory](<THM course/gobuster/theory.md>)
   * [Nmap basics](<THM course/nmap-basics.md>)
