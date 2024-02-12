@@ -2,6 +2,9 @@
 
 * [The Open Web Application Security OWASP](README.md)
 * [Theory & Commands](<THM course/README.md>)
+  * [Command injection](<THM course/command-injection/README.md>)
+    * [Command injection payload lists](<THM course/command-injection/command-injection-payload-lists.md>)
+    * [Remediating command injection](<THM course/command-injection/remediating-command-injection.md>)
   * [Fuzzing](<THM course/fuzzing.md>)
   * [Creating DNS entry for an IP](<THM course/creating-dns-entry-for-an-ip.md>)
   * [Gobuster](<THM course/gobuster/README.md>)
@@ -9,6 +12,7 @@
   * [Nmap basics](<THM course/nmap-basics.md>)
   * [Intro web hacking](<THM course/Intro web hacking/README.md>)
     * [Cross-site Scripting](<THM course/Intro web hacking/cross-site-scripting/README.md>)
+      * [Practice: Session cookies hijacking](<THM course/Intro web hacking/cross-site-scripting/practice-session-cookies-hijacking.md>)
       * [DOM Based XSS](<THM course/Intro web hacking/cross-site-scripting/dom-based-xss.md>)
       * [Blind XSS](<THM course/Intro web hacking/cross-site-scripting/blind-xss.md>)
       * [Stored XSS](<THM course/Intro web hacking/cross-site-scripting/stored-xss.md>)
