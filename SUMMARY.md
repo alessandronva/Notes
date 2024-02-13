@@ -2,6 +2,9 @@
 
 * [The Open Web Application Security OWASP](README.md)
 * [Theory & Commands](<THM course/README.md>)
+  * [Structured Query Language](<THM course/structured-query-language/README.md>)
+    * [SQL Injection](<THM course/structured-query-language/sql-injection.md>)
+    * [SQL commands](<THM course/structured-query-language/sql-commands.md>)
   * [Command injection](<THM course/command-injection/README.md>)
     * [Command injection payload lists](<THM course/command-injection/command-injection-payload-lists.md>)
     * [Remediating command injection](<THM course/command-injection/remediating-command-injection.md>)
