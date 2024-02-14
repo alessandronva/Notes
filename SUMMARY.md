@@ -3,6 +3,8 @@
 * [The Open Web Application Security OWASP](README.md)
 * [Theory & Commands](<THM course/README.md>)
   * [Structured Query Language](<THM course/structured-query-language/README.md>)
+    * [Retrieving hidden data](<THM course/structured-query-language/retrieving-hidden-data.md>)
+    * [Basic detection of SQL injection](<THM course/structured-query-language/basic-detection-of-sql-injection.md>)
     * [Determining the number of columns](<THM course/structured-query-language/determining-the-number-of-columns.md>)
     * [SQL explanation from "El pingüino de Mario"](<THM course/structured-query-language/sql-explanation-from-el-pingueino-de-mario.md>)
     * [SQL Injection](<THM course/structured-query-language/sql-injection.md>)
