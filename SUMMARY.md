@@ -3,6 +3,7 @@
 * [The Open Web Application Security OWASP](README.md)
 * [Theory & Commands](<THM course/README.md>)
   * [Structured Query Language](<THM course/structured-query-language/README.md>)
+    * [Retrieving multiple values within a single column](<THM course/structured-query-language/retrieving-multiple-values-within-a-single-column.md>)
     * [Special case hexadecimal ":"  0x3a](<THM course/structured-query-language/special-case-hexadecimal-0x3a.md>)
     * [Listing db, table and columns](<THM course/structured-query-language/listing-db-table-and-columns.md>)
     * [Retrieving hidden data](<THM course/structured-query-language/retrieving-hidden-data.md>)
