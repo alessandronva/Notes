@@ -6,7 +6,7 @@ This is a practice from THM, where we have to determine the number of columns in
 
 We start with just a ' symbol, if it returns an error it means we could interact with SQL
 
-<figure><img src="../../.gitbook/assets/sql-1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/sql-1 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Then, in order to be able to generate commands we first need to detect the number of colums it could be done with the following query:
 

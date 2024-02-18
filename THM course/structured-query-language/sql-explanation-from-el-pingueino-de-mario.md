@@ -4,7 +4,7 @@ In the explanation we are using a HTB machine with a webpage login
 
 <div>
 
-<figure><img src="../../.gitbook/assets/sql-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/sql-1 (1).png" alt=""><figcaption></figcaption></figure>
 
  
 
