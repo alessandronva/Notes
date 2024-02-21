@@ -2,6 +2,7 @@
 
 * [The Open Web Application Security OWASP](README.md)
 * [Theory & Commands](<THM course/README.md>)
+  * [Privilege Escalation](<THM course/privilege-escalation.md>)
   * [Structured Query Language](<THM course/structured-query-language/README.md>)
     * [Blind SQL injection](<THM course/structured-query-language/blind-sql-injection/README.md>)
       * [Blind SQL injection with conditional errors (ORACLE DB)](<THM course/structured-query-language/blind-sql-injection/blind-sql-injection-with-conditional-errors-oracle-db.md>)
