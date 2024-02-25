@@ -2,6 +2,7 @@
 
 * [The Open Web Application Security OWASP](README.md)
 * [Theory & Commands](<THM course/README.md>)
+  * ["find" Command Cheat Sheet](<THM course/find-command-cheat-sheet.md>)
   * [John the ripper basics](<THM course/john-the-ripper-basics.md>)
   * [Privilege Escalation](<THM course/privilege-escalation/README.md>)
     * [Privilege Escalation: Cron Jobs](<THM course/privilege-escalation/privilege-escalation-cron-jobs.md>)
