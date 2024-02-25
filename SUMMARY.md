@@ -2,7 +2,10 @@
 
 * [The Open Web Application Security OWASP](README.md)
 * [Theory & Commands](<THM course/README.md>)
+  * [John the ripper basics](<THM course/john-the-ripper-basics.md>)
   * [Privilege Escalation](<THM course/privilege-escalation/README.md>)
+    * [Privilege Escalation: Cron Jobs](<THM course/privilege-escalation/privilege-escalation-cron-jobs.md>)
+    * [Privilege Escalation: Capabilities](<THM course/privilege-escalation/privilege-escalation-capabilities.md>)
     * [Privilege escalation SUID](<THM course/privilege-escalation/privilege-escalation-suid.md>)
     * [Webpage useful to bypass linux security](<THM course/privilege-escalation/webpage-useful-to-bypass-linux-security.md>)
     * [Privilege escalation tools linux](<THM course/privilege-escalation/privilege-escalation-tools-linux.md>)
