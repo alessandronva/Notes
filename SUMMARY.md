@@ -3,6 +3,7 @@
 * [The Open Web Application Security OWASP](README.md)
 * [Theory & Commands](<THM course/README.md>)
   * [Privilege Escalation](<THM course/privilege-escalation/README.md>)
+    * [Privilege escalation SUID](<THM course/privilege-escalation/privilege-escalation-suid.md>)
     * [Webpage useful to bypass linux security](<THM course/privilege-escalation/webpage-useful-to-bypass-linux-security.md>)
     * [Privilege escalation tools linux](<THM course/privilege-escalation/privilege-escalation-tools-linux.md>)
     * [Privilege escalation sudo](<THM course/privilege-escalation/privilege-escalation-sudo.md>)
