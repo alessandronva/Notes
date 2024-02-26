@@ -95,3 +95,11 @@
 ## THM machines walkthroughs
 
 * [Vulnversity](thm-machines-walkthroughs/vulnversity.md)
+
+## OSING THREAT INTELLIGENCE
+
+* [Dark web - Threat Intelligence](osing-threat-intelligence/dark-web-threat-intelligence/README.md)
+  * [RISKS IN Dark web](osing-threat-intelligence/dark-web-threat-intelligence/risks-in-dark-web.md)
+  * [Dark web resources](osing-threat-intelligence/dark-web-threat-intelligence/dark-web-resources.md)
+* [Malware](osing-threat-intelligence/malware/README.md)
+  * [Malware - Attack vectors](osing-threat-intelligence/malware/malware-attack-vectors.md)
