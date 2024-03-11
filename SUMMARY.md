@@ -98,6 +98,10 @@
 
 ## OSING THREAT INTELLIGENCE
 
+* [TTPS](osing-threat-intelligence/ttps.md)
+* [Creating a Threat Intelligence campaign](osing-threat-intelligence/creating-a-threat-intelligence-campaign.md)
+* [Threat Intelligence frameworks](osing-threat-intelligence/threat-intelligence-frameworks.md)
+* [IoC commons](osing-threat-intelligence/ioc-commons.md)
 * [Dark web - Threat Intelligence](osing-threat-intelligence/dark-web-threat-intelligence/README.md)
   * [RISKS IN Dark web](osing-threat-intelligence/dark-web-threat-intelligence/risks-in-dark-web.md)
   * [Dark web resources](osing-threat-intelligence/dark-web-threat-intelligence/dark-web-resources.md)
