@@ -98,6 +98,11 @@
 
 ## OSING THREAT INTELLIGENCE
 
+* [Yara (Yet Another Ridiculous Acronym)](osing-threat-intelligence/yara-yet-another-ridiculous-acronym/README.md)
+  * [Other malware analysis tools](osing-threat-intelligence/yara-yet-another-ridiculous-acronym/other-malware-analysis-tools.md)
+  * [YARA modules](osing-threat-intelligence/yara-yet-another-ridiculous-acronym/yara-modules.md)
+  * [Anatomy of YARA rule](osing-threat-intelligence/yara-yet-another-ridiculous-acronym/anatomy-of-yara-rule.md)
+  * [Basic yara rules](osing-threat-intelligence/yara-yet-another-ridiculous-acronym/basic-yara-rules.md)
 * [Malware Information Sharing Platform MISP](osing-threat-intelligence/malware-information-sharing-platform-misp.md)
 * [Dark web - Threat Intelligence](osing-threat-intelligence/dark-web-threat-intelligence/README.md)
   * [RISKS IN Dark web](osing-threat-intelligence/dark-web-threat-intelligence/risks-in-dark-web.md)
