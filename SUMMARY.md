@@ -99,6 +99,8 @@
 ## OSING THREAT INTELLIGENCE
 
 * [Yara (Yet Another Ridiculous Acronym)](osing-threat-intelligence/yara-yet-another-ridiculous-acronym/README.md)
+  * [Valhalla](osing-threat-intelligence/yara-yet-another-ridiculous-acronym/valhalla.md)
+  * [Creating Yara rules with yarGen](osing-threat-intelligence/yara-yet-another-ridiculous-acronym/creating-yara-rules-with-yargen.md)
   * [Other malware analysis tools](osing-threat-intelligence/yara-yet-another-ridiculous-acronym/other-malware-analysis-tools.md)
   * [YARA modules](osing-threat-intelligence/yara-yet-another-ridiculous-acronym/yara-modules.md)
   * [Anatomy of YARA rule](osing-threat-intelligence/yara-yet-another-ridiculous-acronym/anatomy-of-yara-rule.md)

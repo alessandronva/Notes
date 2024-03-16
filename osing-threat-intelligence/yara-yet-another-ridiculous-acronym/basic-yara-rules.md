@@ -1,5 +1,10 @@
 # Basic yara rules
 
+Guides to create YARA rules:\
+[https://www.bsk-consulting.de/2015/02/16/write-simple-sound-yara-rules/\
+https://www.bsk-consulting.de/2015/10/17/how-to-write-simple-but-sound-yara-rules-part-2/\
+https://www.bsk-consulting.de/2016/04/15/how-to-write-simple-but-sound-yara-rules-part-3/](https://www.bsk-consulting.de/2015/02/16/write-simple-sound-yara-rules/https://www.bsk-consulting.de/2015/10/17/how-to-write-simple-but-sound-yara-rules-part-2/https://www.bsk-consulting.de/2016/04/15/how-to-write-simple-but-sound-yara-rules-part-3/)
+
 Your First Yara Rule
 
 The proprietary language that Yara uses for rules is fairly trivial to pick up, but hard to master. This is because your rule is only as effective as your understanding of the patterns you want to search for.\
