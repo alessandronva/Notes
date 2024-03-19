@@ -98,6 +98,9 @@
 
 ## OSING THREAT INTELLIGENCE
 
+* [OSINT TOOLS](osing-threat-intelligence/osint-tools/README.md)
+  * [UrlScan.io](osing-threat-intelligence/osint-tools/urlscan.io.md)
+  * [Abuse.ch](osing-threat-intelligence/osint-tools/abuse.ch.md)
 * [Yara (Yet Another Ridiculous Acronym)](osing-threat-intelligence/yara-yet-another-ridiculous-acronym/README.md)
   * [Valhalla](osing-threat-intelligence/yara-yet-another-ridiculous-acronym/valhalla.md)
   * [Creating Yara rules with yarGen](osing-threat-intelligence/yara-yet-another-ridiculous-acronym/creating-yara-rules-with-yargen.md)
