@@ -98,9 +98,11 @@
 
 ## OSING THREAT INTELLIGENCE
 
+* [Email analysis PhishTool](osing-threat-intelligence/email-analysis-phishtool.md)
+* [JA3 fingerprint](osing-threat-intelligence/ja3-fingerprint.md)
 * [OSINT TOOLS](osing-threat-intelligence/osint-tools/README.md)
   * [UrlScan.io](osing-threat-intelligence/osint-tools/urlscan.io.md)
-  * [Abuse.ch](osing-threat-intelligence/osint-tools/abuse.ch.md)
+  * [Abuse.ch (And its tools)](osing-threat-intelligence/osint-tools/abuse.ch-and-its-tools.md)
 * [Yara (Yet Another Ridiculous Acronym)](osing-threat-intelligence/yara-yet-another-ridiculous-acronym/README.md)
   * [Valhalla](osing-threat-intelligence/yara-yet-another-ridiculous-acronym/valhalla.md)
   * [Creating Yara rules with yarGen](osing-threat-intelligence/yara-yet-another-ridiculous-acronym/creating-yara-rules-with-yargen.md)
