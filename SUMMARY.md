@@ -98,6 +98,7 @@
 
 ## OSING THREAT INTELLIGENCE
 
+* [Cisco Talos](osing-threat-intelligence/cisco-talos.md)
 * [Email analysis PhishTool](osing-threat-intelligence/email-analysis-phishtool.md)
 * [JA3 fingerprint](osing-threat-intelligence/ja3-fingerprint.md)
 * [OSINT TOOLS](osing-threat-intelligence/osint-tools/README.md)
