@@ -98,6 +98,7 @@
 
 ## OSING THREAT INTELLIGENCE
 
+* [Useful documentation repositories](osing-threat-intelligence/useful-documentation-repositories.md)
 * [OpenCTI](osing-threat-intelligence/opencti/README.md)
   * [OpenCTI Data Model](osing-threat-intelligence/opencti/opencti-data-model.md)
 * [Cisco Talos](osing-threat-intelligence/cisco-talos.md)
@@ -121,6 +122,7 @@
 * [Threat Intelligence frameworks](osing-threat-intelligence/threat-intelligence-frameworks.md)
 * [IoC commons](osing-threat-intelligence/ioc-commons.md)
 * [Malware](osing-threat-intelligence/malware/README.md)
+  * [Page](osing-threat-intelligence/malware/page.md)
   * [Memory forensics (Demo) volatility](osing-threat-intelligence/malware/memory-forensics-demo-volatility.md)
   * [File entropy analysis (Theory & Example)](osing-threat-intelligence/malware/file-entropy-analysis-theory-and-example.md)
   * [vmonkey analyzing VBA macros](osing-threat-intelligence/malware/vmonkey-analyzing-vba-macros.md)
