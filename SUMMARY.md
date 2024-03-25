@@ -9,3 +9,7 @@
 * [Trees, forests and trusts](trees-forests-and-trusts.md)
 * [Theory](theory.md)
 * [My windows cheat sheet](my-windows-cheat-sheet.md)
+* [Alternate Data Streams (ADS)](alternate-data-streams-ads.md)
+* [The File System](the-file-system.md)
+* [User Accounts, Profiles, and Permissions](user-accounts-profiles-and-permissions.md)
+* [User Account Control](user-account-control.md)
