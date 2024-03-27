@@ -13,3 +13,8 @@
 * [The File System](the-file-system.md)
 * [User Accounts, Profiles, and Permissions](user-accounts-profiles-and-permissions.md)
 * [User Account Control](user-account-control.md)
+
+## Windows logs
+
+* [Wevtutil.exe](windows-logs/wevtutil.exe.md)
+* [Event Viewer](windows-logs/event-viewer.md)
